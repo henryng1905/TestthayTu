@@ -1,0 +1,38 @@
+.stopwatch {
+  height: 15vh;
+  width: 25vw;
+  background-color: #ffa600;
+  color: white;
+}
+.stopwatch .stopwatch-timer{
+    text-align: center;
+    padding: 5px;
+}
+.stopwatch .stopwatch-timer h1{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn {
+  border-color: white;
+  color: white;
+  padding: 7px 45px;
+}
+.stopwatch .stopwatch-button {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.clock{
+    height: 20vh;
+    width: 25vw;
+    background-color: black;
+    color: #17d4fe;
+
+}
+.clock-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
